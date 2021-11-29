@@ -9,5 +9,8 @@ This repository includes survey data and supporting files associated with the re
 - *Survey items_gunpolicy(2020 survey).docx* provides pseudocode describing the onling survey and how it was administered. 
 - [code] (forthcoming) R code used to conduct analyses of experts' overall assessment of the merits of gun policies
 
+## License
+These materials are licensed under the MIT license (see LICENSE.md).
+
 ## Questions
 Questions may be directed to Rosanna Smart (smart@rand.org) or Andrew Morral (morral@rand.org)
