@@ -7,7 +7,7 @@ This repository includes survey data and supporting files associated with the re
 - *gun_policy_datadictionary.xlsx* is an Excel file listing all field names, types, lengths, labels, and value ranges.
 - *gun_policy_codebook.pdf* provides item wording and distributions of the imputed responses.
 - *Survey items_gunpolicy(2020 survey).docx* provides pseudocode describing the onling survey and how it was administered. 
-- *CompareModelsPublic_PUF.r"* R code used to compare policy preferences of expert groups as a function of their expectations about the likely effects of those policies. 
+- *CompareModelsPublic_PUF.r* R code used to compare policy preferences of expert groups as a function of their expectations about the likely effects of those policies. 
 
 ## License
 These materials are licensed under the MIT license (see LICENSE.md).
